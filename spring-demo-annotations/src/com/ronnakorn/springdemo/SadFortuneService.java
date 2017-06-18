@@ -1,4 +1,4 @@
-package com.luv2code.springdemo;
+package com.ronnakorn.springdemo;
 
 public class SadFortuneService implements FortuneService {
 
